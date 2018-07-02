@@ -1,7 +1,7 @@
 package com.example.demo.feign;
 
 /**
- * @author Moritz Krischke, MHP
+ * @author Moritz Krischke
  * @version 1.0
  */
 public class Vehicle {
