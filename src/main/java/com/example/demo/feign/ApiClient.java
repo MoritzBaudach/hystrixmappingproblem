@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @version 1.0
  */
 @FeignClient(value = "CARDEALER", fallback = ApiClientFallback.class)
-// TODO: 02.07.18 This commenting in requestmappings on class level the histrix fallback mapping won´t work
+// TODO: 02.07.18 When inserting requestmappings on class level the histrix fallback mapping won´t work
 @RequestMapping(value = "cardealer")
 public interface ApiClient {
 
