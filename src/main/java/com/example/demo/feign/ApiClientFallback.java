@@ -3,7 +3,7 @@ package com.example.demo.feign;
 import org.springframework.stereotype.Component;
 
 /**
- * @author Moritz Krischke, MHP
+ * @author Moritz Krischke
  * @version 1.0
  */
 @Component
